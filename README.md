@@ -1,4 +1,5 @@
-# R-silience-et-IA
+# Résilience et IA
+
 Groupe publique créé suite à la Journée Résilience et IA, le 5 juillet 2023 à Strasbourg
 
 
